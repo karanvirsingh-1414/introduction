@@ -1,0 +1,2 @@
+// Example of COMPILE TIME POLYMORPHISM IS :- 
+// 1) CONSTRUCTOR OVERLOADING - It means creating two constructors in a class and calling them through main function. One constructor will be PARAMETERISED and another will be NON-PARAMETERISED. If in main we make an object which is without parameter
